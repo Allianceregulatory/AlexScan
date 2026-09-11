@@ -34,7 +34,7 @@ export const en = {
     title: 'Results',
     empty: 'No demonstration products match “{{query}}”.',
     allTitle: 'Demonstration catalogue',
-    count: '{{count}} products',
+    count: '{{count}} in the sample catalogue',
   },
   product: {
     title: 'Product',

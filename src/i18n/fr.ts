@@ -41,7 +41,7 @@ export const fr: DeepStringify<typeof en> = {
     title: 'Résultats',
     empty: 'Aucun produit de démonstration ne correspond à « {{query}} ».',
     allTitle: 'Catalogue de démonstration',
-    count: '{{count}} produits',
+    count: '{{count}} dans le catalogue d’échantillon',
   },
   product: {
     title: 'Produit',
